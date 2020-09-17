@@ -1,2 +1,2 @@
 ## turtle-hobbit.github.io
-Версия: v0.0.1
+Версия: v0.0.2
